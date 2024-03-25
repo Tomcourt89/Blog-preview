@@ -44,7 +44,7 @@ article a {
     text-decoration: none;
     color: var(--black);
 }
-article a > img {
+article .wrapper > img {
     width: 100%;
     border-radius: 10px;
     margin-bottom: 24px;
